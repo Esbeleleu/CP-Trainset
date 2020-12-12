@@ -1,4 +1,4 @@
-This Newgrf is a trainset based from Portugal.
+This Newgrf is a trainset based on trains Portugal's.
 
 V1.1
 
